@@ -6,6 +6,10 @@ public class Addition {
 		int a=10,b=20,c;
 		c=a+b;
 		System.out.println(c);
+		
+		int d=60,e=5,f;
+		f=d-e;
+		System.out.println(f);
 
 	}
 
