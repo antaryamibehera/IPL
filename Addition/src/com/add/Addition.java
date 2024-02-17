@@ -10,7 +10,5 @@ public class Addition {
 		int d=60,e=5,f;
 		f=d-e;
 		System.out.println(f);
-
 	}
-
 }
