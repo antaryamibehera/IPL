@@ -6,5 +6,12 @@ public class Addition {
 		for(int u=1;u<=5;u++) {
 			System.out.println(u);
 		}
+		int age=20;
+		if(age>20) {
+			System.out.println("Eligible for Job");
+		}
+		else {
+			System.out.println("Not Eligible for job");
+		}
 	}
 }
